@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.col1{
+    background-color: #F8F8F8;
+    height: 1000px;
+}
+.col2{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.signin{
+    font-size: 34px;
+    margin-left: 18vh;
+    line-height: 51px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 15vh;
+}
+.welcome{
+    font-size: 16px;
+    color: #636364;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 21px;
+    margin-left: 18vh;
+    margin-top: -22px;
+}
+.input{
+    height: 69px;
+    width: 315px;
+    text-align: center;
+    line-height: 21px;
+    columns: #C4C4C4;
+}
+.input input{
+    border: 1px solid #C4C4C4;
+    border-radius: 6px;
+    margin-left: 18vh;
+    height: 5vh;
+    width: 45vh;
+}
+.forget input{
+    border: 1px solid #C4C4C4;
+    border-radius: 4px;
+    height: 10px;
+    width: 14px;
+    margin-left: 18vh;
+}
+.button button{
+    border: 1px solid #C4C4C4;
+    border-radius: 6px;
+    height: 5vh;
+    width: 45vh;
+    color: white;
+    background-color: #EA454C;
+    margin-left: 18vh;
+    margin-top: 2vh;
+}
+.button1 button{
+    border: 1px solid #C4C4C4;
+    border-radius: 6px;
+    height: 5vh;
+    width: 45vh;
+    color: black;
+    background-color: white;
+    margin-left: 18vh;
+    margin-top: 2vh;
+}
+.account{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 24vh;
+    margin-top: 2vh;
+}
+.account p{
+    margin-top:-3vh;
+    margin-left: 19vh;
+}
+.forget p{
+    margin-top: -3vh;
+    margin-left: 45vh;
+}
